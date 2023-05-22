@@ -1,1 +1,12 @@
-[{"password":"iuydwtycbtcew","balance":580,"nationality":"United States","gender":"Male","fullname":"abdo moataz","id":2094186153,"email":"abdo213@gmail.com","username":"abdo12"},{"password":"Password12345","balance":1200,"nationality":"Germany","gender":"Male","id":987954671,"fullname":"yasin salah","email":"yasin123@gmail.com","username":"yasin1234"},{"password":"Word123456789","balance":500,"nationality":"United States","gender":"Male","id":351022676,"fullname":"fuck fcds","email":"fuck123@gmail.com","username":"fuck123"},{"password":"Tocugusd312422","gender":"Male","balance":1865,"nationality":"United States","fullname":"omar abdelrhman","id":2094186151,"email":"omar213@gmail.com","username":"omar1234"},{"id":2015135314,"email":"hm@gmail.com","nationality":"United States","balance":9900,"password":"HM123456789","gender":"Male","username":"h123","fullname":"hm"}]
+[
+    {
+        "password": "USER123456789",
+        "nationality": "United States",
+        "balance": 1000,
+        "gender": "Male",
+        "id": 2015135314,
+        "fullname": "user",
+        "email": "user123@gmail.com",
+        "username": "user123"
+    }
+]

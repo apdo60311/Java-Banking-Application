@@ -85,7 +85,7 @@ public class WithdrawScreen {
         JPanel innerPanel = new JPanel(new GridBagLayout());
         innerPanel.setBackground(Color.white);
 
-        JLabel transferTextLabel = new JLabel("Deposite Money");
+        JLabel transferTextLabel = new JLabel("Withdraw Money");
         Font welcomeTextFont = new Font("Arial", Font.BOLD, 35);
         transferTextLabel.setFont(welcomeTextFont);
         Insets welcomeTextInsets = new Insets(15, 0, 0, 0);

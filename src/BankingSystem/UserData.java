@@ -14,7 +14,7 @@ abstract class UserLogin {
     protected String username;
     protected String email;
     protected String password;
-
+    
     public UserLogin(String username, String email, String password) {
         this.username = username;
         this.email = email;

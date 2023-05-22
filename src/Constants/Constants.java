@@ -12,7 +12,7 @@ public class Constants {
     public static String usersJsonFilePath = "src/users.json";
     public static String currentUserJsonFilePath = "src/currentUser.json";
     public static String[] countries = { "United States", "Canada", "Mexico", "Brazil", "Argentina", "Germany", "France", "United Kingdom", "Russia", "China", "Japan", "Australia" };
-    public static String[] gender = {"Male" , "Female" , "Other Fuckers"};
+    public static String[] gender = {"Male" , "Female"};
     public static String backgroundColorCode = "#E6EEFF";
     public static String buttonBackgroundColorCode = "#2662FF";
 
